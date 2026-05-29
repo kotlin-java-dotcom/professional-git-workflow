@@ -14,4 +14,5 @@
  - Useful Git commands
  - Team development workflow
 
-Download PDF Memo1
+
+[Download PDF Memo](https://github.com/kotlin-java-dotcom/professional-git-workflow/blob/main/docs/git_workflow_memo.pdf)
